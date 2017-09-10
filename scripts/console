@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+import code
+import leeroy_agent
+
+print("")
+print("++ LeeroyAgent console v{} started".format(leeroy_agent.__version__))
+print("")
+
+code.interact(readfunc=None, local=locals())

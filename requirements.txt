@@ -1,0 +1,12 @@
+invoke>=0,<1
+pre-commit==0.12.2
+pylint>=1,<2
+tox>=2,<3
+versioneer==0.18
+packaging>=16
+pysocks>=1,<2
+PyYAML>=3,<4
+six>=1,<2
+oslash>=0,<1
+pytest>=3,<4
+pytest-cov>=2,<3

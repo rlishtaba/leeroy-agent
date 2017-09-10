@@ -1,0 +1,4 @@
+# Include the SSL certificate file in the package distributed by pip
+recursive-include leeroy_agent/conf *
+include versioneer.py
+include leeroy_agent/_version.py
